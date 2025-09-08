@@ -28,7 +28,7 @@
                     </path>
                 </svg>
                 <div ref="labels" class="nrdb-ui-gauge-tank-labels">
-                    <label class="nrdb-ui-gauge-tank--fglabel" :style="{'line-height': labelLineHeight}">{{ pc }}%</label>
+                    <label class="nrdb-ui-gauge-tank--fglabel" :style="{'line-height': labelLineHeight}">{{ pc }}cm</label>
                 </div>
             </div>
         </div>
